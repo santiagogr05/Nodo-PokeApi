@@ -15,7 +15,7 @@ Se tocarán temas básicos sobre:
 Para instalar este repo no necesitas ninguna dependencia, basta con que clones el repositorio así
 
 ```shell
-git clone https://github.com/appitoriadev/Poke-Api-Test.git
+git clone https://github.com/nodoeafit/PokemonApi.git
 ```
 
 Esto descargará los archivos necesarios para empezar a trabajar.
