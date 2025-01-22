@@ -99,9 +99,10 @@ body {
 }
 
 .modal {
+    font-size: 15px;
     display: none;
-    width: 300px;
-    height: 237px;
+    width: fit-content;
+    height: fit-content;
     padding: 14px;
     background-color: rgba(32, 222, 111, 0.66);
     border: 1px solid white;
