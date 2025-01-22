@@ -1,11 +1,5 @@
 # Poke Api Test
 
-Holi 🤗
-
-En este workshop vamos a crear una aplicación basada en la [API de Pokemon.](https://pokeapi.co/)
-
-Se tocarán temas básicos sobre:
-
 - HTML semántico
 - CSS con BEM
 - JS Vanilla (selectores, async/await, eventListeners)
